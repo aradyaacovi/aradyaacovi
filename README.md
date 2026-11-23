@@ -1,14 +1,21 @@
 ## Hi, I'm Arad
 
-I'm an Industrial Engineering & Management student at Ben-Gurion University (BGU). I'm interested in where data, technology and business meet: analytics, product, strategy, and venture capital.
+Third-year Industrial Engineering & Management student at Ben-Gurion University (BGU). I work where data, technology and business meet: analytics, product, strategy and venture capital.
+
+I design and direct the projects below and build them with AI coding tools (Claude Code, Cursor). Each README says what I did and what the tools did.
 
 ### Projects
 
-- **[ecommerce-sql-database](https://github.com/aradyaacovi/ecommerce-sql-database)** – A SQL Server database for a jewelry e-commerce case study. It covers schema design, analytical queries (CTEs, window functions), a trigger and a stored procedure, with synthetic data generated in Python. Team project.
-- **[production-scheduling-optimization](https://github.com/aradyaacovi/production-scheduling-optimization)** – Single-machine job scheduling with a genetic algorithm and linear programming. Two-person project, built with AI-assisted development.
+- **[student-copilot](https://github.com/aradyaacovi/student-copilot)** ([live demo](https://aradyaacovi.github.io/student-copilot/?demo=1)) – A semester command center that answers "what should I work on right now?". A prioritization engine ranks deadlines by effort and slack; n8n automations sync Moodle and read schedule-change emails; Supabase with row-level security; installable PWA. Hebrew (RTL) first.
+- **[ecommerce-sql-database](https://github.com/aradyaacovi/ecommerce-sql-database)** – SQL Server database for a jewelry e-commerce case study: 10-table schema, analytical queries (CTEs, window functions), a trigger and a stored procedure, synthetic data generated in Python, and a Power BI report. Team project.
+- **[production-scheduling-optimization](https://github.com/aradyaacovi/production-scheduling-optimization)** – Single-machine just-in-time scheduling: a genetic algorithm searches the job order and a linear program times each order exactly. Two-person project.
 
 ### Also
 
 - Atidim excellence program for industry & high-tech
-- Cactus Capital, BGU's student-run VC fund
-- Background in digital marketing
+- Cactus Capital, BGU's student-run VC fund: mentoring early-stage university startups toward the investment committee
+- Background in digital marketing (campaign management, content strategy)
+
+**Tools:** SQL (strongest), Python, Excel, Power BI (learning), JavaScript, Git
+
+[LinkedIn](https://www.linkedin.com/in/arad-yaacovi)
