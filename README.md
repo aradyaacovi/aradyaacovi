@@ -27,9 +27,9 @@ I design and direct the projects below and build them with AI coding tools (Clau
 
 | | Project | What it shows |
 |---|---|---|
-| 🎓 | [**student-copilot**](https://github.com/aradyaacovi/student-copilot) · [live demo](https://aradyaacovi.github.io/student-copilot/?demo=1) | Product thinking end to end: a semester command center with a deadline-prioritization engine, n8n automations, Supabase (row-level security) and an installable PWA. Hebrew/RTL first. |
-| 📈 | [**vc-deal-pipeline**](https://github.com/aradyaacovi/vc-deal-pipeline) | A deal-flow tracker for a small VC team: pipeline board, weighted traffic-light evaluations, roles, stale-deal detection, CSV import. Fictional data, unit-tested logic. |
 | 🗄️ | [**ecommerce-sql-database**](https://github.com/aradyaacovi/ecommerce-sql-database) | SQL Server design and analysis: 10-table schema, CTEs and window functions, trigger, stored procedure, synthetic data in Python, Power BI report. Team project. |
+| 🎓 | [**student-copilot**](https://github.com/aradyaacovi/student-copilot) · [live demo](https://aradyaacovi.github.io/student-copilot/?demo=1) | Product thinking end to end: a semester command center with a deadline-prioritization engine, n8n automations, Supabase (row-level security) and an installable PWA. Hebrew/RTL first. |
+| 📈 | [**vc-deal-pipeline**](https://github.com/aradyaacovi/vc-deal-pipeline) | A deal-flow tracker for a small VC team: pipeline board, weighted traffic-light evaluations, KPI analytics with interactive charts, data-quality CSV import. Fictional data, unit-tested logic. |
 | ⚙️ | [**production-scheduling-optimization**](https://github.com/aradyaacovi/production-scheduling-optimization) | Operations research: a genetic algorithm orders the jobs, a linear program sets exact timing, for just-in-time single-machine scheduling. Two-person project. |
 
 ## 🧰 Skills
